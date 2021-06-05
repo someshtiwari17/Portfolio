@@ -1,8 +1,11 @@
 # Somesh Kant Tiwari
 *An Aspiring Data Scientist | 2X Kaggle Grandmaster*
 
+# Experience
+*Network Associate*, *TCS*, nov 2020- may 2021
+
 # Education
-* Bachelors of Technology(Electronics and Communication), *Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore*, 2016-2020
+* Bachelors of Technology (Electronics and Communication), *Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore*, 2016-2020
 
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
 
